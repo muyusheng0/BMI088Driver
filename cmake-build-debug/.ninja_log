@@ -1,0 +1,27 @@
+# ninja log v5
+71	165	6927348068312549	CMakeFiles/BMI088_pro.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj	8812fc4683aceee6
+61	235	6927348068984199	CMakeFiles/BMI088_pro.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj	675a0c164f18e5eb
+34	194	6927348068543772	CMakeFiles/BMI088_pro.elf.dir/Core/Src/stm32f1xx_it.c.obj	8fb112744c4b26e2
+165	313	6927348069768310	CMakeFiles/BMI088_pro.elf.dir/Core/Src/system_stm32f1xx.c.obj	2e8975c63d31db48
+324	816	6927348074828110	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj	94cef4d36e0bfb37
+79	206	6927348068717500	CMakeFiles/BMI088_pro.elf.dir/Core/Src/sysmem.c.obj	6c7c324f9e31ca2
+45	217	6927348068738395	CMakeFiles/BMI088_pro.elf.dir/Core/Src/syscalls.c.obj	52a0ba533678a176
+18	226	6927348068913397	CMakeFiles/BMI088_pro.elf.dir/Core/Src/main.c.obj	f664ffbfaef4c96a
+207	383	6927348070438436	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	d682ca54c89dc187
+195	355	6927348070206090	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	484b150480b356ba
+227	396	6927348070589726	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	ae25057875939cc
+217	411	6927348070744229	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	27d8b793d6e69055
+253	444	6927348071017312	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	ec681553975d5561
+313	496	6927348071574137	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	dd06a8d1eef77b95
+871	1289	6927348076707603	BMI088_pro.elf	8a2deb459f8dbd9f
+236	432	6927348070955777	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	13ecd69c1b7dfac1
+383	570	6927348072354262	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	6639b47e7d64cd48
+245	422	6927348070870618	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	55f30be7ef795e59
+422	870	6927348075371926	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj	431660f92fa1bd3a
+412	702	6927348073684528	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj	c469af3fc8349a13
+396	569	6927348072354262	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	bb01506d3d276d43
+355	571	6927348072378804	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	66bcb1ba188b4677
+432	725	6927348073912986	CMakeFiles/BMI088_pro.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	42371b88effa358
+26	245	6927348069099407	CMakeFiles/BMI088_pro.elf.dir/Core/Src/bmi08g.c.obj	e37aa1cd3a11189b
+1	323	6927348069850784	CMakeFiles/BMI088_pro.elf.dir/Core/Src/bmi08a.c.obj	9de8b443f37242b0
+10	253	6927348069177252	CMakeFiles/BMI088_pro.elf.dir/Core/Src/bmm150.c.obj	f97f05e70b92970a
